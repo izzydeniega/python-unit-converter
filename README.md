@@ -53,4 +53,4 @@ This Unit Converter application was created as a demonstration project. The auth
 
 ## Disclaimer
 
-This application is for educational purposes only. While we strive for accuracy in the conversions, this tool should not be used for critical or precise measurements where errors could lead to significant consequences. Always verify important conversions using professional-grade tools or services.
+***This application is for educational purposes only. While we strive for accuracy in the conversions, this tool should not be used for critical or precise measurements where errors could lead to significant consequences. Always verify important conversions using professional-grade tools or services.***
